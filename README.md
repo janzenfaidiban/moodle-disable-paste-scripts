@@ -1,0 +1,1 @@
+# moodle-disable-paste-scripts
